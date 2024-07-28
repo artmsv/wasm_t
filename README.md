@@ -1,0 +1,3 @@
+- xxd -R always ./test.wasm | less
+- https://webassembly.github.io/wabt/demo/wat2wasm/index.html
+- https://github.com/WebAssembly/wabt
